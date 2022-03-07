@@ -4,10 +4,8 @@
 - 🌱 I’m currently learning Node js 
 - 👯 I’m looking to collaborate on gssoc
 - 🤔 I’m looking for help with backend
-<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: deepakchattwaniking15@gmail.com
-<!-- - 😄 Pronouns: ... -->
-- 
 - 🆔 Linkedin: www.linkedin.com/in/deepak-chattwani-340bb8227
-<!-- - ⚡ Fun fact:  -->
+<img scr="https://github-readme-stats.vercel.app/api?username=deep-69bits&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
