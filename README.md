@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**deep-69bits/deep-69bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋  I'm deepak(deep) Chattwani
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Node js 
+- 👯 I’m looking to collaborate on gssoc
+- 🤔 I’m looking for help with backend
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: deepakchattwaniking15@gmail.com
+<!-- - 😄 Pronouns: ... -->
+- 
+- 🆔 Linkedin: www.linkedin.com/in/deepak-chattwani-340bb8227
+<!-- - ⚡ Fun fact:  -->
+
