@@ -19,7 +19,7 @@
 
 <br/>
 <br/>
-<a href="https://github.com/laveshverma007/github-readme-activity-graph" target="_blank"><img alt="deep,s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deep-69bits&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/deep-69bits/github-readme-activity-graph" target="_blank"><img alt="deep,s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deep-69bits&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
