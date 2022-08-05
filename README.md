@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with animejs
 - 📫 How to reach me: deepakchattwaniking15@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-69bits&label=Profile%20views&color=0e75b6&style=flat" alt="deep-69bits" /> </p>
-<p align="center"><img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="1000" height="300" /></p> 
+<p align="center"><img src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="800" height="300" /></p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
