@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak(Deep) Chattwani</h1>
+<h1 align="center">Hi 👋</h1>
 
 
 - 🌱 Contributing bits
